@@ -1,1 +1,1 @@
-# script
+# ndk sample project
