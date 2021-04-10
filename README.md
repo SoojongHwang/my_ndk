@@ -1,1 +1,1 @@
-#Sample ndk project
+# Sample ndk project
